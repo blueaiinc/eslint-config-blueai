@@ -1,6 +1,9 @@
 # eslint-config-blueai
 A custom ESLint configuration for modern JavaScript and TypeScript projects, with React support.
 
+## URL 
+https://www.npmjs.com/package/eslint-config-blueai
+
 ## Features
 
 - Base configuration extends from ESLint recommended settings
