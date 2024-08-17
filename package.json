@@ -17,6 +17,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.1.0",
     "@typescript-eslint/parser": "^8.1.0",
+    "conventional-changelog-cli": "^5.0.0",
     "eslint": "^9.9.0",
     "eslint-plugin-react": "^7.35.0"
   }
